@@ -1,7 +1,7 @@
 <h1 align="center"> Latent Reasoning in Continuous Space<br>for Unified Multimodal Models
 </h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2610.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2602.04476)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2610.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2610.42149)&nbsp;
 
 <div align="center">
   <a href="https://rootyjeon.github.io/" target="_blank">Byungwoo&nbsp;Jeon</a><sup>1</sup> &ensp; <b>&middot;</b> &ensp;
@@ -12,13 +12,13 @@
   <sup>1</sup> KAIST &emsp; <sup>2</sup>POSTECH &emsp; <sup>3</sup>RLWRLD &emsp; <br>
   <sup>*</sup> Equal Advising
 </div>
-<h3 align="center">[<a href="https://rootyjeon.github.io/latent-reasoning-umm/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2602.04476">arXiv</a>]</h3>
+<h3 align="center">[<a href="https://rootyjeon.github.io/latent-reasoning-umm/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2610.42149">arXiv</a>]</h3>
 <br>
 
 This repository is the official implementation of Latent Reasoning in Continuous Space for Unified Multimodal Models (LARC).
 
 ## TODO
-- [ ] Release inference code (expected: 11/2)
+- [ ] Release inference code (expected: 11/9)
 - [ ] Release training code and data
 - [ ] Release evaluation code
 
@@ -28,7 +28,7 @@ This repository is the official implementation of Latent Reasoning in Continuous
 @article{jeon2026larc,
   title={Latent Reasoning in Continuous Space for Unified Multimodal Models},
   author={Jeon, Byungwoo and Jeong, Yoonwoo and Lee, Hyunseok and Cho, Minsu and Shin, Jinwoo},
-  journal={arXiv preprint arXiv:2610.xxxxx},
+  journal={arXiv preprint arXiv:2610.42149},
   year={2026}
 }
 ```
