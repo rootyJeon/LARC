@@ -1,7 +1,8 @@
 <h1 align="center"> Latent Reasoning in Continuous Space<br>for Unified Multimodal Models
 </h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2610.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2610.42149)&nbsp;
+[![Project page](https://img.shields.io/badge/Project-Page-1f6feb.svg?logo=googlechrome&logoColor=white)](https://rootyjeon.github.io/larc-umm/)&nbsp;[![LARC Paper on arXiv](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2610.42149)&nbsp;[![HuggingFace](https://img.shields.io/badge/HuggingFace-LARC-yellow?style=flat&logo=huggingface)](https://huggingface.co/rooty2020/)&nbsp;
+
 
 <div align="center">
   <a href="https://rootyjeon.github.io/" target="_blank">Byungwoo&nbsp;Jeon</a><sup>1</sup> &ensp; <b>&middot;</b> &ensp;
@@ -12,7 +13,7 @@
   <sup>1</sup> KAIST &emsp; <sup>2</sup>POSTECH &emsp; <sup>3</sup>RLWRLD &emsp; <br>
   <sup>*</sup> Equal Advising
 </div>
-<h3 align="center">[<a href="https://rootyjeon.github.io/latent-reasoning-umm/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2610.42149">arXiv</a>]</h3>
+<h3 align="center">[<a href="https://rootyjeon.github.io/larc-umm/">project page</a>]&emsp;[<a href="https://arxiv.org/abs/2610.42149">arXiv</a>]</h3>
 <br>
 
 This repository is the official implementation of Latent Reasoning in Continuous Space for Unified Multimodal Models (LARC).
